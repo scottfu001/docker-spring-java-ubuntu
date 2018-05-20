@@ -4,7 +4,7 @@ Java 8 image for Spring application
 
 docker-compose example
 
-    atm-app:
+     app:
         image: scottfu/docker-spring-java8-ubuntu
         container_name: app
         restart: on-failure

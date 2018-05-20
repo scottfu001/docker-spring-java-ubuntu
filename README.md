@@ -5,7 +5,7 @@ Java 8 image for Spring application
 docker-compose example
 
      app:
-        image: scottfu/docker-spring-java8-ubuntu
+        image: scottfu/spring-java-ubuntu
         container_name: app
         restart: on-failure
         ports:
